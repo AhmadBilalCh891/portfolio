@@ -23,7 +23,7 @@ function Projects() {
 							imgPath={invoicerApp}
 							title='Invoicer App'
 							description="This is a side project I've been working on. A full stack invoicing application made using the MERN stack (MongoDB, Express, React & Nodejs), specially designed for superstores and small businesses, but can be used for almost any type of business need. With this application, you can generate and send beautiful invoices, receipts, estimates, quotes, bills etc to your clients. You can track your inventry and business transactions with clients. This project is something I've been working on in my free time so it's not completed yet. I will deploy it somwhere once I have most of its functionlaity in running form."
-							link='https://github.com/AhmadBilalCh891'
+							link='https://github.com/AhmadBilalCh891/invoicer-app'
 						/>
 					</Col>
 					<Col md={6} className='project-card'>

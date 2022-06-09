@@ -2,9 +2,9 @@ import React from 'react'
 import { Container, Row} from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Components/Particles/Particle";
- import resume from "../Assets/resume.png";
- import project from "../Assets/project-his.png";
- import pdf from "../Assets/resume.pdf"
+import resume from "../Assets/Ahmad-Resume.png";
+import project from "../Assets/project-his.png";
+ import pdf from "../Assets/Ahmad-Resume.pdf"
 
 
 import { AiOutlineDownload } from "react-icons/ai";
